@@ -17,7 +17,7 @@
 - **Languages:** Python, SQL (MySQL, PostgreSQL), R, Java
 - **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, transformers
 - **Tools:** Jupyter, VS Code, Power BI, Colab, Git, GitHub
-- **Cloud Platforms:** Google Cloud Platform - Vertex AI
+- **Cloud Platforms:** Google Cloud Platform - Vertex AI, BigQuery
 
 ---
 <!--
