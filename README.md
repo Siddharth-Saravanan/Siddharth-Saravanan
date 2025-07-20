@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Siddharth Saravanan
+# 👋 Welcome to my profile!
 
-🚀 Passionate about data-driven problem solving, I focus on transforming complex data into actionable insights through data science, machine learning, and applied AI. ✨
+👋 Hi, I'm Siddharth Saravanan, an aspiring Data Analyst based in Prosper, Texas.
+
+I approach data with the care and curiosity one gives to a growing project. Before diving into the technical depths, I'm driven to deeply analyze the business problem, ask the right questions, and understand the core objective we're aiming to solve. Only then do I dig into coding and craft fun, yet complex, visualizations with diverse tools.
+
+My internship experience provided invaluable insight into large-scale data analytics, and the usage of diverse tools there truly hooked me, motivating me to explore projects across various domains.
+
+My aim isn't just to load datasets, show header rows, or predict targets with 99% accuracy. It's to meticulously learn the business objective, approach challenges the right way, draw accurate conclusions, and empower data-driven decision-making for real-world problems.
 
 ---
 
