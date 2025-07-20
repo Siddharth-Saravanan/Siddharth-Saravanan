@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth Saravanan
 
-I'm interested in data-driven problem solving, with a focus on data science, machine learning, and applied AI systems.
+🚀 Passionate about data-driven problem solving, I focus on transforming complex data into actionable insights through data science, machine learning, and applied AI. ✨
 
 ---
 
