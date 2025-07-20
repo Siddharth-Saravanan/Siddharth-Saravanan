@@ -14,7 +14,7 @@ I'm interested in data-driven problem solving, with a focus on data science, mac
 ---
 
 ### 🛠️ Tools & Technologies
-- **Languages:** Python, SQL, *(Java, R – Foundational)*
+- **Languages:** Python, SQL (MySQL, PostgreSQL), R, Java
 - **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn, TensorFlow, Keras, transformers
 - **Tools:** Jupyter, VS Code, Power BI, Colab, Git, GitHub
 - **Cloud Platforms:** Google Cloud Platform - Vertex AI
