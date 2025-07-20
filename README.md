@@ -5,11 +5,11 @@
 ---
 
 ### 🔍 Areas of Interest
-- Data Science & Analytics
-- Machine Learning & Deep Learning
-- Business Intelligence
-- Large Language Models & AI Agents
-- Cloud Computing
+-   Data Science & Analytics 📊
+-   Machine Learning & Deep Learning 🧠
+-   Business Intelligence 📈
+-   Large Language Models & AI Agents 🤖
+-   Cloud Computing ☁️
   
 ---
 
