@@ -21,7 +21,7 @@
 
 ---
 
-### 📌 Selected Projects
+### 📌 Featured Projects
 - [`canmanage`](https://github.com/Siddharth-Saravanan/canmanage): A full-stack task management app built as part of an academic project; deployed on Vercel
   
 - [`Cross-lingual Translation`](https://github.com/Siddharth-Saravanan/Cross-lingual-Translation-using-Transformer-Models-English-and-Badaga): Transformer-based approach for English ↔ Badaga language translation
