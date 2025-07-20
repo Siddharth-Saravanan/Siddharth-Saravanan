@@ -16,10 +16,31 @@ My passion ignites when I transform raw data into a compelling narrative that so
 ---
 
 ### 🛠️ Tools & Technologies
-- **Languages:** Python, SQL (MySQL, PostgreSQL), R, Java
-- **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, transformers
-- **Tools:** Jupyter, VS Code, Power BI, Colab, Git, GitHub
-- **Cloud Platforms:** Google Cloud Platform - Vertex AI, BigQuery
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="JaAa">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-3B9EFF?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI">
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery">
+</p>
 
 ---
 <!--
