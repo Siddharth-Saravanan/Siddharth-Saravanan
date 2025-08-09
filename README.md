@@ -58,7 +58,7 @@ My passion ignites when I transform raw data into a compelling narrative that so
 
 -   **[`StutterAssist`](https://github.com/Siddharth-Saravanan/StutterAssist)**:
 Developed a deep learning framework to address the challenge of accurately detecting stuttering dysfluencies and reconstructing fluent speech for the stuttered community.
--   **[`Dynamic Pricing System in Retail Stores`](https://github.com/Siddharth-Saravanan/Retail-Stores-Pricing-Optimization)**:
+-   **[`Dynamic Pricing System in Retail Stores`](https://github.com/Siddharth-Saravanan/Student_Depression_Analysis_and_Prediction_using_Machine_Learning)**:
 Engineered a dynamic pricing system to optimize product prices in a highly competitive retail environment, aiming to boost profit and revenue for FMCG products.
 -   **[`Cross-lingual Machine Translation for Low-resource Languages`](https://github.com/Siddharth-Saravanan/Retail-Stores-Pricing-Optimization/blob/main/README.md)**:
 This project addresses the linguistic digital divide by building a cross-lingual machine translation system for the low-resource Badaga language, utilizing state-of-the-art Transformer-based models.
