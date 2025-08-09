@@ -62,6 +62,6 @@ Developed a deep learning framework to address the challenge of accurately detec
 -   **[`Cross-lingual Machine Translation for Low-resource Languages`](https://github.com/Siddharth-Saravanan/Retail-Stores-Pricing-Optimization/blob/main/README.md)**:
 This project addresses the linguistic digital divide by building a cross-lingual machine translation system for the low-resource Badaga language, utilizing state-of-the-art Transformer-based models.
 
-### 📬 Let's Connect
+### 📬 Socials
 - Find me on [LinkedIn](https://www.linkedin.com/in/sidsarvan/) 💼<!-- replace -->
 - Reach out via Email: [sidsarvan2002@gmail.com](mailto:sidsarvan2002@gmail.com) 📧 <!-- replace -->
