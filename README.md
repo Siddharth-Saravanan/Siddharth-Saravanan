@@ -43,16 +43,7 @@ My passion ignites when I transform raw data into a compelling narrative that so
 </p>
 
 ---
-<!--
-### 📌 Featured Projects
-- [`canmanage`](https://github.com/Siddharth-Saravanan/canmanage): A full-stack task management app built as part of an academic project; deployed on Vercel
-  
-- [`Cross-lingual Translation`](https://github.com/Siddharth-Saravanan/Cross-lingual-Translation-using-Transformer-Models-English-and-Badaga): Transformer-based approach for English ↔ Badaga language translation
-  
-- [`Nand2Tetris Logic Simulation`](https://github.com/Siddharth-Saravanan/Simulation-of-Logic-Gates-using-Nand2Tetris-16-bit-HACK-CPU): Logic gate simulation using a 16-bit HACK CPU architecture
 
----
--->
 
 ### 📌 Featured Projects
 -   **[`Student Depression Analysis and Prediction using Machine Learning`](https://github.com/Siddharth-Saravanan/Student_Depression_Analysis_and_Prediction_using_Machine_Learning)**:
