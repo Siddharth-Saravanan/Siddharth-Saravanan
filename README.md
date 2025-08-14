@@ -47,7 +47,7 @@ My passion ignites when I transform raw data into a compelling narrative that so
 
 ### 📌 Featured Projects
 -   **[`Student Depression Analysis and Prediction using Machine Learning`](https://github.com/Siddharth-Saravanan/Student_Depression_Analysis_and_Prediction_using_Machine_Learning)**:
-Performed in-depth EDA and built multiple ML classifiers (including a custom Logistic Regression) to analyze key academic, social, and psychological factors influencing student depression.
+Performed in-depth EDA to analyze key academic, social, and psychological factors influencing student depression and built multiple ML classifiers (including a custom Logistic Regression) for predicting depression.
 -   **[`StutterAssist`](https://github.com/Siddharth-Saravanan/StutterAssist)**:
 Developed a deep learning framework to address the challenge of accurately detecting stuttering dysfluencies and reconstructing fluent speech for the stuttered community.
 -   **[`Cross-lingual Machine Translation for Low-resource Languages`](https://github.com/Siddharth-Saravanan/Retail-Stores-Pricing-Optimization/blob/main/README.md)**:
