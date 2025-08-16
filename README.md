@@ -58,3 +58,16 @@ This project addresses the linguistic digital divide by building a cross-lingual
 ### 📬 Socials
 - Find me on [LinkedIn](https://www.linkedin.com/in/sidsarvan/) 💼<!-- replace -->
 - Reach out via Email: [sidsarvan2002@gmail.com](mailto:sidsarvan2002@gmail.com) 📧 <!-- replace -->
+
+---
+
+## 🎮 Fun Contribution Graph
+
+Here’s a playful twist on my GitHub activity — my commits as a **Breakout-style game**!  
+Because coding isn’t just work, it can be fun too. 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
