@@ -2,7 +2,9 @@
 
 👨🏻‍💻 Hi, I'm **Siddharth Saravanan**, a recent undergraduate aspiring **Data Analyst** and **Data Scientist** based in Prosper, Texas. 
 
-My passion ignites when I transform raw data into a compelling narrative that solves real-world problems. I carefully approach every problem and the corresponding data available, delving deep into the business context and asking the right questions before crafting insightful analyses and visually engaging dashboards 📊 with diverse tools. My hands-on experience as an intern provided invaluable exposure to large-scale data analytics, deepening my drive to deliver actionable intelligence. I believe data's true power lies beyond just loading a dataset, using a model and claiming 99% accuracy; it's in meticulously learning the business objective, drawing accurate conclusions, and empowering strategic decision-making. Let's connect and build the future with data! 🤝
+My passion ignites when I transform raw data into a compelling narrative that solves real-world problems. I carefully approach every problem and the corresponding data available, delving deep into the business context and asking the right questions before crafting insightful analyses and visually engaging dashboards 📊 with diverse tools. 
+
+My hands-on experience as an intern provided invaluable exposure to large-scale data analytics, deepening my drive to deliver actionable intelligence. I believe data's true power lies beyond just loading a dataset, using a model and claiming 99% accuracy; it's in meticulously learning the business objective, drawing accurate conclusions, and empowering strategic decision-making. Let's connect and build the future with data! 🤝
 
 ---
 
